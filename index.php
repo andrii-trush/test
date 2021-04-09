@@ -1,4 +1,4 @@
 <?php
-echo "Hello A-level";
+echo "Hello A-level!";
 phpinfo();
 exit;
